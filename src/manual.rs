@@ -23,6 +23,9 @@ OPTIONS
     -files files...
         Specifies one or more files to be printed. The program will print each file in the order
         provided. If no files are provided, the program will output "There is nothing to print."
+    
+    -version
+        Displays the current version of the program, the GitHub repository link, and the changelog information.
 
     -help
         Displays this help manual.
