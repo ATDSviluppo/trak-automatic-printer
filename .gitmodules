@@ -1,0 +1,3 @@
+[submodule "OpenSSL-1.1.1w-compiled"]
+	path = OpenSSL-1.1.1w-compiled
+	url = https://github.com/ATDSviluppo/OpenSSL-1.1.1w-compiled.git
