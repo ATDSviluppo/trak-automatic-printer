@@ -1,3 +1,3 @@
 # trak-automatic-printer
 
-building dependencies: required openssl-devel
+building dependencies required: openssl-devel
