@@ -16,7 +16,7 @@ RUN /bin/bash build.sh
 RUN mkdir -p /output
 
 # Move your file to the /output directory
-RUN mv /app/target/release/aprinter /output/
+RUN mv /app/target/release/trak_aprinter /output/
 
 # Specify the command for the container (for manual inspection or extraction)
-CMD ["/bin/bash"]
+CMD ["true"]
